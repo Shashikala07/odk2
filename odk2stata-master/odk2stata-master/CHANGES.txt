@@ -1,0 +1,22 @@
+v0.2.5, 20 March 2019
+* Add code for GUI
+
+v0.2.4, 4 October 2018
+* Generated split select_multiple variable names now are one line
+
+v0.2.3, 3 October 2018
+* Remove comma before clear in "import" statement
+* Add Stata code for date in final "save"
+* Fix encode select_one logic for select_external types
+
+v0.2.2, 2 October 2018
+* Fix off-by-one error on variable numbers
+
+v0.2.1, 2 October 2018
+* Remove commas from "foreach" lists in encode select_ones
+
+v0.2.0, 1 October 2018
+* Big refactor
+
+v0.1.0, 12 May 2018
+* First release
